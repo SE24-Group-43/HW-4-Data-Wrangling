@@ -10,13 +10,11 @@ This Homework is basrd on Data Wrangling, also known as Data munging, which is t
 <h2>Goal</h2>
 The goal of this homework is to understand various commands of script that are used in data wrangling. GAWK, SED and GREP are the three major commands that are being used in these tasks.
 <li>
-  <ul>
     Task1 is regarding applying GREP for terminating an infinitely running file in background.
-  </ul>
-  <ul>
+</li>
+<li>
     Task2 is about searching through files and sorting the files according to given condition
-  </ul>
-  <ul>
+</li>
+<li>
     Task3 is about analyzing the csv file and applying data filtering and finding average
-  </ul>
 </li>
